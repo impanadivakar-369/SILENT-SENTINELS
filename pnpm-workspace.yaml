@@ -1,0 +1,6 @@
+allowBuilds:
+  '*': true
+onlyBuiltDependencies:
+  - "@google/genai"
+  - "esbuild"
+  - "protobufjs"

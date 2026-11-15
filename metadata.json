@@ -1,0 +1,6 @@
+{
+  "name": "Silent Sentinels",
+  "description": "An interactive educational space exploration archive and gamified learning experience for young space enthusiasts exploring NASA's silent spacecraft across the Moon, Mars, and deep space using NSSDCA data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
